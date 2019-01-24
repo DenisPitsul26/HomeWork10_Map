@@ -1,0 +1,10 @@
+one - один
+two - два
+three - три
+four - чотири
+five - пять
+six - шість
+six - шість
+six - шість
+six - шість
+six - шість
